@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and Models
+*.pt
+*.pth
+runs/
+Crack-Detection-10/
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
