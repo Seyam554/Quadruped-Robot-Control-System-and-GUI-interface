@@ -135,7 +135,8 @@ pip install PyQt5 inputs opencv-python numpy requests ultralytics torch
 * Shahariar Hossain
 * Shadid Al Akib
 * Rafin Abrar
-*   **Autonomous Navigation:** Implement ROS 2 (Robot Operating System) nodes for SLAM (Simultaneous Localization and Mapping) using depth cameras/LiDAR.
+
+## **Autonomous Navigation:** Implement ROS 2 (Robot Operating System) nodes for SLAM (Simultaneous Localization and Mapping) using depth cameras/LiDAR.
 
 ---
 *Developed for advanced robotic control and environmental interaction.*
