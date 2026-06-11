@@ -129,6 +129,12 @@ pip install PyQt5 inputs opencv-python numpy requests ultralytics torch
 
 *   **Sensor Fusion:** Integrate IMU data from the ESP32 back into the GUI for real-time 3D pose estimation and auto-balancing algorithms.
 *   **Edge AI Integration:** Migrate the YOLO crack segmentation inference directly onto an edge TPU (like Google Coral) or utilize the ESP32-S3's vector instructions to reduce PC dependency.
+
+## Contributers
+* Tazwar Ahmed
+* Shahariar Hossain
+* Shadid Al Akib
+* Rafin Abrar
 *   **Autonomous Navigation:** Implement ROS 2 (Robot Operating System) nodes for SLAM (Simultaneous Localization and Mapping) using depth cameras/LiDAR.
 
 ---
