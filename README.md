@@ -1,5 +1,7 @@
 # Quadruped Robot Control System & GUI Interface 🐾💻
 
+[![Demo Video](https://img.youtube.com/vi/Nx-Y6TwPJRM/0.jpg)](https://www.youtube.com/watch?v=Nx-Y6TwPJRM)
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyQt5](https://img.shields.io/badge/PyQt-5-green.svg)](https://pypi.org/project/PyQt5/)
 [![YOLOv8](https://img.shields.io/badge/YOLO-v8-yellow.svg)](https://ultralytics.com/)
